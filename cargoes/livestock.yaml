@@ -8,7 +8,7 @@ longName: livestock
 name: Livestock
 penaltyLength: 215
 penaltyLowerBound: 40
-price: 4112
+price: 41121
 sprite:
   filename: cargoes/livestock.png
   left: 0
