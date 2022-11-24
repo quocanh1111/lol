@@ -6,8 +6,8 @@ id: 3
 label: NE04
 longName: fish
 name: Fish
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 235
+penaltyLowerBound: 20
 price: 20560
 sprite:
   filename: cargoes/fish.png
