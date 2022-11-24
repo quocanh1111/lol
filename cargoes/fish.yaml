@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: N4
 available: false
-classes: 32
+classes: 672
 colour: 1
 id: 3
-label: NEWC
-longName: 'new cargo #3'
-name: 'New Cargo #3'
+label: NE04
+longName: fish
+name: Fish
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 20560
 sprite:
-  filename: cargoes/new-cargo-3.png
+  filename: cargoes/fish.png
   left: 0
   top: 0
-unitName: Items
+unitName: Crates
 weight: 16
