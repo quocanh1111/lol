@@ -1,9 +1,9 @@
-abbreviation: NE
+abbreviation: N6
 available: false
 classes: 32
 colour: 1
 id: 5
-label: NEWC
+label: NE06
 longName: 'new cargo #5'
 name: 'New Cargo #5'
 penaltyLength: 255
