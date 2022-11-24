@@ -1,0 +1,17 @@
+abbreviation: N5
+available: false
+classes: 672
+colour: 1
+id: 4
+label: NE05
+longName: fruit
+name: Fruit
+penaltyLength: 251
+penaltyLowerBound: 4
+price: 4112
+sprite:
+  filename: cargoes/fruit.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16
