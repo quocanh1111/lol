@@ -1,17 +1,17 @@
 abbreviation: NE
 available: false
-classes: 32
+classes: 4624
 colour: 1
 id: 2
 label: NE03
-longName: 'new cargo #2'
-name: 'New Cargo #2'
+longName: grain
+name: Grain
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 12336
 sprite:
-  filename: cargoes/new-cargo-2.png
+  filename: cargoes/grain.png
   left: 0
   top: 0
-unitName: Items
+unitName: Tonnes
 weight: 16
