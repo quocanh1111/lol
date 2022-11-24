@@ -1,0 +1,17 @@
+abbreviation: NE
+available: false
+classes: 320
+colour: 255
+id: 0
+label: NEWC
+longName: milk
+name: Milk
+penaltyLength: 249
+penaltyLowerBound: 6
+price: 41121
+sprite:
+  filename: cargoes/milk.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16
