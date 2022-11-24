@@ -1,6 +1,6 @@
 abbreviation: NE
 available: false
-classes: 320
+classes: 64
 colour: 255
 id: 0
 label: NEWC
@@ -8,7 +8,7 @@ longName: milk
 name: Milk
 penaltyLength: 249
 penaltyLowerBound: 6
-price: 41121
+price: 20560
 sprite:
   filename: cargoes/milk.png
   left: 0
