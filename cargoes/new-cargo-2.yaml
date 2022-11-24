@@ -3,12 +3,12 @@ available: false
 classes: 32
 colour: 1
 id: 2
-label: NEWC
+label: NE03
 longName: 'new cargo #2'
 name: 'New Cargo #2'
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 12336
 sprite:
   filename: cargoes/new-cargo-2.png
   left: 0
