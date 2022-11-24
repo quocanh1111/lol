@@ -6,8 +6,8 @@ id: 2
 label: NE03
 longName: grain
 name: Grain
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 187
+penaltyLowerBound: 68
 price: 12336
 sprite:
   filename: cargoes/grain.png
