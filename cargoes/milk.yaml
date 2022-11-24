@@ -1,9 +1,9 @@
-abbreviation: NE
+abbreviation: N1
 available: false
 classes: 64
 colour: 255
 id: 0
-label: NEWC
+label: NE01
 longName: milk
 name: Milk
 penaltyLength: 249
